@@ -1,4 +1,4 @@
-module chainmaker.org/chainmaker-go/core
+module github.com/y4ssss/test
 
 go 1.15
 
